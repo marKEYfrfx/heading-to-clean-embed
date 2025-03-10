@@ -1,5 +1,6 @@
-# Obsidian Plugin
-Personal Plugin to change a heading to a clean embed of its own note.
+# Heading to Clean Embed Plugin
+This plugin was made for personal use to change a heading to a clean embed of its content as a new separate note.
+I do not recommend that others download it without being aware that it may be buggy.
 Requires this [Embed Adjustments Snippet](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Embed%20Adjustments.css) from the [Obsidian--ITS-Theme](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme)
 
 Example:
